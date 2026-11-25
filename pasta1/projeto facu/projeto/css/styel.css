@@ -1,0 +1,83 @@
+.botao_cad {
+    color: #C4CAD0;
+    background-color: #053B06;
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+    margin-right: 5px;
+ }
+    
+    
+
+.botao_ent{
+    border-radius: 10px;
+    color: #053B06;
+    text-decoration: none;
+    border: 2px solid #053B06;
+    padding: 8px; 
+    margin-left: 5px;
+
+}
+
+.conteudo{
+    display: flex;
+    margin-top: 50px;
+    background-color: #F5F8F6;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+.botao_info{
+margin: 50px;
+}
+
+.titulo{
+    color: #053B06;
+}
+
+.cont_direita{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: 20px;
+}
+
+.informacao{
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.cont_esquerda{
+  display: flex;
+justify-content: center;
+align-items: center;
+margin-right: 20px;
+}
+
+.meio{
+    background-color:#DCEFE0;
+    width: 500px;
+    height: 350px;
+    display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 15px;
+
+}
+
+.cabecalho{
+    display: flex;
+    
+}
+
+.logo {
+flex: 1;
+}
+
+.botoes{
+    flex: 1;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
